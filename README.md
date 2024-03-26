@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @gabbytheearies
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @gabbytheearies 
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning software design and how to build websites
+- 💞️ I’m looking to collaborate on projects that will help me develop more coding skills that I can use on my current project.
 - 📫 How to reach me gabriellegaston4@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love to travel and learn about different cultures
